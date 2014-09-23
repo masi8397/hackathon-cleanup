@@ -2,7 +2,7 @@
 
 * [Austin Wood](https://github.com/indiesquidge)
 * [Ian Ker-Seymer](https://github.com/ianks)
-* [Mark Simpson](https://github.com/masi8397)
+* [Marc Simpson](https://github.com/masi8397)
 
 # Objective 1. Clean up the Federal Advisory Committee Dataset
 
